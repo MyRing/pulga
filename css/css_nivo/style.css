@@ -1,0 +1,13 @@
+
+
+.slider-wrapper { 
+	width: 100%; 
+	margin: 0;
+}
+
+/*====================*/
+/*=== Other Styles ===*/
+/*====================*/
+.clear {
+	clear:both;
+}

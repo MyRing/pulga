@@ -1,0 +1,15 @@
+					.columnized div {
+						float: left;
+						width: 18em;							padding: 10px;		
+						position: relative; 		
+						text-align: justify;
+						margin: 0;	 		
+					}
+					
+				
+					.columnized div .readOn {
+						position: absolute;
+						right: 1em;
+						bottom: -0.5em;
+						color: #999999;
+					}

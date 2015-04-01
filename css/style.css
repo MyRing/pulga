@@ -1,0 +1,22 @@
+
+/*
+ body{ background-color: gray;}
+
+ curtain{ position:absolute; width:100%; height:100%; background-color: black; filter: alpha(opacity=75);-moz-opacity: 0.75; opacity: 0.75; text-align:center; }
+ .123{ line-height: 4px; }
+*/
+
+
+.crop{
+	float:left;
+	margin:.5em 10px .5em 0;
+	overflow:hidden; /* this is important */
+	border:1px solid #ccc;
+	}
+/* input values to crop the image */
+.crop img{
+	margin:-20px -15px -40px -55px;
+	}
+
+.redtxt{color:red; padding:0 6px;}
+.yeltxt{color:orange;}
